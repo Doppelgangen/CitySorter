@@ -89,7 +89,7 @@ public class Main {
                     break;
 
                 default:
-                    System.out.println("Пожалуйтса, повторите ввод.");
+                    System.out.println("Пожалуйста, повторите ввод.");
                     break;
             }
         }
